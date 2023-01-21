@@ -1,4 +1,4 @@
-Multiclass SVM using mini-batch Stochastic Gradient Descent (mbSGD) solver.
+Multiclass SVM using mini-batch Gradient Descent (mbSGD) solver.
 
 The mathematical objective function for the soft margin SVM using parameters w and b is given by:   
 
